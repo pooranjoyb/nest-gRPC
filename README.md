@@ -38,11 +38,11 @@ $ npm install
 # development
 $ npm run start
 
-# watch mode
-$ npm run start:dev
+# watch mode Auth
+$ npm run start:dev auth
 
-# production mode
-$ npm run start:prod
+# watch mode Gateway
+$ npm run start:dev gateway
 ```
 
 ## run Proto
